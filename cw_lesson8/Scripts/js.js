@@ -1,21 +1,3 @@
-// let names = ["Ann", "Oleksandra", "Olesia", "Ivan"];
-//
-// names.pop();
-// names.unshift("Pavlo");
-// names.shift();
-//
-// let names2 = names.slice(1, 3);
-//
-// console.log(names);
-// console.log(names2);
-//
-// let deleted = names.splice(2, 1);
-// console.log(deleted);
-//
-// names.splice(1, 0, "Seva");
-// names.splice(0, 1, "Tetiana", "Nadiia");
-// console.log(names);
-
 // function register(name) {
 //     if (name.trim() === "") {
 //         alert("Please enter your name");
@@ -50,9 +32,6 @@
 //         alert("Учасника видалено")
 //     }
 //
-//
-//
-//
 // }
 // function count(){
 //     alert(`Всього учасників: ${event.length}`);
@@ -81,7 +60,6 @@
 // names.forEach(function (name,index){
 //     console.log(name, index);
 // })
-
 
 ////////////
 //Homework//
