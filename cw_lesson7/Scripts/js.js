@@ -10,7 +10,6 @@
 //     suma += prices[i]
 // }
 
-
 // function getTotalPrices(prices) {
 //     let sum = 0;
 //     for (let i = 0; i < prices.length; i++) {
@@ -38,8 +37,6 @@
 //
 // let res = LimPrices(prices);
 // console.log(res);
-
-
 
 let count = +prompt("Скільки чисел введеш?");
 let arr = [];
