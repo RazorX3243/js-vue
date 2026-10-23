@@ -1,8 +1,3 @@
-// function name(аргументи) {
-//     код
-// }
-
-
 // function showMessage() {
 //     alert("Hello World!");
 //
@@ -12,8 +7,6 @@
 // showMessage();
 // showMessage();
 // showMessage();
-
-
 
 // function showInfo() {
 //     console.log("В гостях у Марійки");
@@ -38,8 +31,6 @@
 //
 // let total = calculateTotal(800, 3);
 // console.log(total);
-
-
 
 // function discount(total) {
 //     if (total >= 5000) {
@@ -93,8 +84,6 @@
 // console.log(`Сума ${productTotal} %`);
 // console.log(`Знижка ${productDiscountPercent} грн`);
 // console.log(`Сума знижка ${productDiscountValue} грн`);
-
-
 
 function getTotalCost(cost, amount) {
     return cost * amount;
