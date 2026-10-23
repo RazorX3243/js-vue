@@ -1,14 +1,14 @@
-// // let book = {
-// //     title: "Кобзар",
-// //     author: "Тарас Шевченко",
-// //     year: "1840",
-// //     price: 500,
-// //     available: true,
-// // }
-// // console.log(book.title);
-// //console.log(book[0]);
-//
-//
+// let book = {
+//     title: "Кобзар",
+//     author: "Тарас Шевченко",
+//     year: "1840",
+//     price: 500,
+//     available: true,
+// }
+
+// console.log(book.title);
+//console.log(book[0]);
+
 // let books = [
 //     {
 //         id: 1,
@@ -35,13 +35,14 @@
 //         available: false
 //     }
 // ];
-// // console.log(books[2]);
-// // for (let book of books) {
-// //     console.log(`[${book.id}]: ${book.title}, ${book.author}, ${book.year}, ${book.price}, ${book.available}, ${book.available}, ${book.price}`);
-// // }
-// // books.forEach(function (book){
-// //     console.log(book.title);
-// // })
+
+// console.log(books[2]);
+// for (let book of books) {
+//     console.log(`[${book.id}]: ${book.title}, ${book.author}, ${book.year}, ${book.price}, ${book.available}, ${book.available}, ${book.price}`);
+// }
+// books.forEach(function (book){
+//     console.log(book.title);
+// })
 //
 // let availableCount = 0;
 // let totalPrice = 0;
@@ -62,7 +63,7 @@
 //     price: 500,
 //     available: true
 // });
-//
+
 // console.log(books.length);
 // let idBooks = +prompt("Введіть ід книги: ");
 // let foundBook = null;
@@ -72,6 +73,7 @@
 //         break;
 //     }
 // }
+
 // if (foundBook !== null) {
 //     let status = "Немає у наявності";
 //     if (foundBook.available === true) {
